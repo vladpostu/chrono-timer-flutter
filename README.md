@@ -1,12 +1,13 @@
 # Timer - Chronometer 
 
+Timer and Chrono tools made with Dart's framework Flutter.
+
 ## Disclamer
 
 **This is a school project**. The core and the README are done based on the delivery requirements
 
-Timer and chronometer application with flutter. 
 
-## Description
+## Getting started
 
 The application allows you to use:
 
@@ -22,7 +23,6 @@ A counter that allows you to record time. With the three buttons below the user 
 ## How to use
 
 To switch beetween the two components use the bottom navigation bar by clicking on the icons.
-
 
 ## Material used
 

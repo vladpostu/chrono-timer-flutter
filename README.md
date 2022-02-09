@@ -1,5 +1,9 @@
 # Timer - Chronometer 
 
+## Disclamer
+
+**This is a school project**. The core and the README are done based on the delivery requirements
+
 Timer and chronometer application with flutter. 
 
 ## Description
